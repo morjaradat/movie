@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+main img {
+    display: block;
+    border-radius: 50%;
+  
+}
+h1 {
+    background-color: #440a67; color: white;
+    text-align: center;
+
+}
+header nav ul li {
+    display: inline ; 
+    color: #93329e; 
+    margin: 20px;
+}
+ #first-p {
+    color: #ffffff; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    color: #16c79a;
+}
